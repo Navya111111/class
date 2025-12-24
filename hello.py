@@ -23,7 +23,7 @@ if "chat_history" not in st.session_state:
 # Initialize LLM
 # --------------------------------------------------
 llm = ChatGroq(
-    model="llama3-8b-8192",
+    model_name="llama3-8b-8192",
     temperature=0
 )
 
