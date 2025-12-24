@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+duckdb
+
+langchain==0.2.14
+langchain-core==0.2.35
+langchain-groq==0.1.9
